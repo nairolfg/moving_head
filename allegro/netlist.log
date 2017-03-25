@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Mar-23-2017 at 18:20:03 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA8515-16AU_0_TQFP44_ATMEGA8515-16AU_0" is renamed to "ATMEGA8515-16AU_0_TQFP44_ATMEGA".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\CADENCE\PROJEKTE\MOVING_HEAD\allegro/pstchip.dat
+
+Loading... C:\CADENCE\PROJEKTE\MOVING_HEAD\allegro/pstchip.dat
+
+Loading... C:\CADENCE\PROJEKTE\MOVING_HEAD\allegro/pstxprt.dat
+
+Loading... C:\CADENCE\PROJEKTE\MOVING_HEAD\allegro/pstxnet.dat
+packaging the design view...

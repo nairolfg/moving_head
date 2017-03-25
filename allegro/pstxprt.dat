@@ -1,0 +1,300 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-23-2017 at 18:20:04 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MOVING_HEAD';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_FG0805C_27PF':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7876@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7876@discrete.\cap np.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7876@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_FG0805C_27PF':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7892@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7892@discrete.\cap np.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7892@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_FGCAP6377_100UF':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7042@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7042@discrete.\cap.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7042@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_FG0805C_100NF':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7058@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7058@discrete.\cap np.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7058@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_POWER':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7134@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7134@connector.\con2.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7134@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'JUMPER10_FGDIP10_ADRESS':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7250@CONNECTOR.JUMPER10.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7250@connector.\jumper10.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7250@connector.\jumper10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'JUMPER3_FGJUMPER3_JUMPER3':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7390@CONNECTOR.JUMPER3.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7390@connector.\jumper3.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7390@connector.\jumper3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON5_FGCONN5_ISP':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7506@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7506@connector.\con5.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7506@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON3_FGCONN3_DMX':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7804@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7804@connector.\con3.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7804@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON4_JUMPER4_CON4':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS8466@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins8466@connector.\con4.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins8466@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CON3_FGCONN3_CON3':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS9068@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins9068@connector.\con3.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins9068@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CON3_FGCONN3_CON3':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS9086@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins9086@connector.\con3.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins9086@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_FG0805R_RED':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7216@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7216@discrete.\led.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7216@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_FG0805R_GREEN':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7170@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7170@discrete.\led.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7170@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MC1 'ATMEGA8515-16AU_0_TQFP44_ATMEGA':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS6924@LED3X3WRGB.ATMEGA8515-16AU_0.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins6924@led3x3wrgb.\atmega8515-16au_0.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins6924@led3x3wrgb.\atmega8515-16au_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_0_SOT23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS8204@MOVING_HEAD.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins8204@moving_head.\mosfet n_0.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins8204@moving_head.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOSFET N_0_SOT23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS8270@MOVING_HEAD.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins8270@moving_head.\mosfet n_0.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins8270@moving_head.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET N_0_SOT23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS8300@MOVING_HEAD.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins8300@moving_head.\mosfet n_0.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins8300@moving_head.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_FG0805R_390':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7200@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7200@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7200@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_FG0805R_390':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7150@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7150@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7150@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_FG0805R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS12584@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins12584@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins12584@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_FG0805R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS12610@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins12610@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins12610@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_FG0805R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS12636@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins12636@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins12636@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_FG0805R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS13291@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins13291@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins13291@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_FG0805R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS13317@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins13317@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins13317@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_FG0805R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS13343@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins13343@discrete.\resistor.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins13343@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '78HT2_TO252AA_78HT2':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7024@REGULATOR.78HT2.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7024@regulator.\78ht2.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7024@regulator.\78ht2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '75176_0_SO8_75176':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7454@MOVING_HEAD.75176_0.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7454@moving_head.\75176_0.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7454@moving_head.\75176_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_FGXTAL_8MHZ':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7836@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins7836@discrete.\crystal.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins7836@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
