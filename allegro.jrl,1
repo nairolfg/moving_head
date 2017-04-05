@@ -1,172 +1,40 @@
-\t (00:00:17) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:17)     Journal start - Thu Mar 23 18:19:17 2017
-\t (00:00:17)         Host=FLO-PC User=Flo Pid=3236 CPUs=2
-\t (00:00:17) 
-\d (00:00:17) Database opened: C:/Cadence/Projekte/moving_head/moving_head.brd
-\i (00:00:21) place manual 
-\i (00:00:23) setwindow form.plc_manual
-\i (00:00:23) FORM plc_manual tree 'MULTISEL YES' R4 'Components by refdes' 
-\t (00:00:23) Placing R4 / RESISTOR_FG0805R_RESISTOR / FG0805R on Top.
-\i (00:00:23) FORM plc_manual tree  R4 'Components by refdes' 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) pick grid 23.449 37.237
-\t (00:00:26) last pick:  23.000  37.000
-\i (00:00:28) setwindow form.plc_manual
-\i (00:00:28) FORM plc_manual done  
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom in 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom in 23.229 38.833
-\i (00:00:29) trapsize 138
-\i (00:00:29) zoom in 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom in 23.229 38.558
-\i (00:00:29) trapsize 69
-\i (00:00:32) zoom out 1 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) zoom out 23.339 38.420
-\i (00:00:32) trapsize 138
-\i (00:00:32) zoom out 1 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) zoom out 23.312 38.283
-\i (00:00:32) trapsize 275
-\i (00:00:33) zoom out 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom out 23.312 38.283
-\i (00:00:33) trapsize 550
-\i (00:00:33) zoom out 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom out 45.244 47.309
-\i (00:00:33) trapsize 550
-\i (00:00:33) zoom in 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in 43.593 46.649
-\i (00:00:33) trapsize 275
-\i (00:00:33) zoom in 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in 22.623 46.594
-\i (00:00:33) trapsize 138
-\i (00:00:33) zoom in 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in 22.101 46.319
-\i (00:00:33) trapsize 69
-\i (00:00:33) zoom in 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in 21.702 46.086
-\i (00:00:33) trapsize 34
-\i (00:00:33) zoom out 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom out 21.070 45.866
-\i (00:00:33) trapsize 69
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out 21.496 45.619
-\i (00:00:34) trapsize 138
-\i (00:00:36) zoom in 1 
-\i (00:00:36) setwindow pcb
-\i (00:00:36) zoom in 22.844 35.794
-\i (00:00:36) trapsize 69
-\i (00:00:43) xdehilite 
-\i (00:00:43) xNet N12697 
-\i (00:00:43) xrefdes R7 
-\t (00:00:43) Can not select unplaced component R7.
-\t (00:00:43) Can not select unplaced component R7.
-\i (00:00:43) xrefdes R8 
-\t (00:00:43) Can not select unplaced component R8.
-\t (00:00:43) Can not select unplaced component R8.
-\i (00:00:43) xrefdes R9 
-\t (00:00:43) Can not select unplaced component R9.
-\t (00:00:43) Can not select unplaced component R9.
-\i (00:00:43) xNet N13371 
-\i (00:00:43) xNet N13361 
-\i (00:00:43) xNet N13383 
-\i (00:00:43) xNet N13403 
-\i (00:00:43) xNet N08486 
-\i (00:00:43) xrefdes Mc1 
-\i (00:00:43) xrefdes U1 
-\i (00:00:43) xrefdes C6 
-\i (00:00:43) xrefdes C7 
-\i (00:00:43) xNet Gnd 
-\i (00:00:43) xNet Vcc_5V 
-\i (00:00:43) xNet Vcc_12 
-\i (00:00:43) xrefdes J1 
-\i (00:00:43) xrefdes R3 
-\i (00:00:43) xrefdes Led2 
-\i (00:00:43) xNet N07168 
-\i (00:00:43) xNet N07198 
-\i (00:00:43) xNet N07188 
-\i (00:00:43) xrefdes R2 
-\i (00:00:43) xrefdes Led1 
-\i (00:00:43) xNet N07244 
-\i (00:00:43) xNet N07234 
-\i (00:00:43) xrefdes J2 
-\i (00:00:43) xNet N07304 
-\i (00:00:43) xNet N07320 
-\i (00:00:43) xNet N07312 
-\i (00:00:43) xNet N07336 
-\i (00:00:43) xNet N07328 
-\i (00:00:43) xNet N07356 
-\i (00:00:43) xNet N07344 
-\i (00:00:43) xNet N07368 
-\i (00:00:43) xNet N07380 
-\i (00:00:43) xrefdes J3 
-\i (00:00:43) xNet N07416 
-\i (00:00:43) xNet N07428 
-\i (00:00:43) xNet N07440 
-\i (00:00:43) xrefdes U2 
-\i (00:00:43) xNet N07484 
-\i (00:00:43) xNet N07496 
-\i (00:00:43) xNet N07488 
-\i (00:00:43) xrefdes J4 
-\i (00:00:43) xNet N07530 
-\i (00:00:43) xNet N07550 
-\i (00:00:43) xNet N07538 
-\i (00:00:43) xNet N07562 
-\i (00:00:43) xNet N07674 
-\i (00:00:43) xNet N07682 
-\i (00:00:43) xNet N07802 
-\i (00:00:43) xNet N07798 
-\i (00:00:43) xrefdes J6 
-\i (00:00:43) xrefdes Y1 
-\i (00:00:43) xNet N07854 
-\i (00:00:43) xNet N07866 
-\i (00:00:43) xrefdes C1 
-\i (00:00:43) xrefdes C2 
-\i (00:00:43) xrefdes Q1 
-\i (00:00:43) xrefdes Q2 
-\i (00:00:43) xrefdes Q3 
-\i (00:00:43) xNet N08332 
-\i (00:00:43) xrefdes J7 
-\i (00:00:43) xNet N08516 
-\i (00:00:43) xrefdes J8 
-\i (00:00:43) xrefdes J9 
-\i (00:00:43) xNet N09245 
-\i (00:00:43) xNet N09263 
-\i (00:00:43) xrefdes R4 
-\i (00:00:43) xrefdes R5 
-\t (00:00:43) Can not select unplaced component R5.
-\t (00:00:43) Can not select unplaced component R5.
-\i (00:00:43) xrefdes R6 
-\t (00:00:43) Can not select unplaced component R6.
-\t (00:00:43) Can not select unplaced component R6.
-\i (00:00:43) xNet N12660 
-\i (00:00:43) xNet N12693 
-\i (00:00:43) xname_flush 
-\t (00:00:43) Net "Vcc_5V" dehighlighted.
-\i (00:00:43) done 
-\i (00:00:48) zoom out 1 
-\i (00:00:48) setwindow pcb
-\i (00:00:48) zoom out 16.075 42.963
-\i (00:00:48) trapsize 138
-\i (00:00:48) zoom out 1 
-\i (00:00:48) setwindow pcb
-\i (00:00:48) zoom out 16.074 42.964
-\i (00:00:48) trapsize 275
-\i (00:00:49) zoom in 1 
-\i (00:00:49) setwindow pcb
-\i (00:00:49) zoom in 17.725 39.496
-\i (00:00:49) trapsize 138
-\i (00:00:54) exit 
-\e (00:00:54) Do you want to save the changes you made to moving_head.brd?
-\i (00:00:55) fillin no 
-\t (00:00:55)     Journal end - Thu Mar 23 18:19:54 2017
+\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:07)     Journal start - Wed Apr 05 16:18:43 2017
+\t (00:00:07)         Host=FLOPC User=MGZ Pid=2520 CPUs=4
+\t (00:00:07) 
+\t (00:00:09) Opening existing design...
+\w (00:00:10) WARNING(SPMHDB-214): Allegro PCB Design Planner Option opening an Allegro Editor design.
+\w (00:00:10) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:10) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (00:01:15) fillin confirm
+\d (00:01:15) Database opened: C:/Cadence/Projects/moving_head/moving_head.brd
+\i (00:01:15) trapsize 570
+\i (00:01:15) trapsize 550
+\i (00:01:15) trapsize 571
+\i (00:01:16) trapsize 550
+\i (00:01:16) trapsize 462
+\i (00:01:16) trapsize 550
+\i (00:01:17) generaledit 
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 12.881 30.247
+\i (00:01:17) trapsize 275
+\i (00:01:35) save_as 
+\i (00:01:39) fillin "menu_cancel"
+\i (00:01:39) generaledit 
+\i (00:01:40) pick grid -11.335 44.613
+\t (00:01:40) last pick:  -11.000  45.000
+\i (00:01:40) pick grid 1.764 45.438
+\t (00:01:40) last pick:  2.000  45.000
+\i (00:01:47) specctra_out 
+\i (00:01:50) setwindow form.spif_out
+\i (00:01:50) FORM spif_out close  
+\i (00:01:50) setwindow pcb
+\i (00:01:50) generaledit 
+\i (00:01:58) techfile out 
+\i (00:02:00) setwindow form.tech_out
+\i (00:02:00) FORM tech_out cancel  
+\i (00:02:00) setwindow pcb
+\i (00:02:00) generaledit 
+\i (00:02:01) exit 
+\t (00:02:01)     Journal end - Wed Apr 05 16:20:37 2017
